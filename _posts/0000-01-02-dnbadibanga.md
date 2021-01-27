@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"you sit on a bed of lies'
 Use the left arrow to go back!
